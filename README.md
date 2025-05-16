@@ -22,3 +22,7 @@ Further information can be found [here](https://doi.org/10.17617/2.3637440) - th
 ## Current topics
 
 * Survey of the SMP-DE-Community about the usage of SMPs: [Link](https://limesurvey.urz.uni-heidelberg.de/index.php/525728)
+
+## Repositories
+
+* The code for the plugins can be found in this repository: [rdmo-plugins-maus](https://github.com/MPDL/rdmo-plugins-maus)
