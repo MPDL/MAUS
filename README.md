@@ -19,10 +19,6 @@ An example SMP is provided [here](https://github.com/lauraBahamon/de-rse-2025-de
 Further information can be found [here](https://doi.org/10.17617/2.3637440) - these are materials for our workshop at [deRSE25](https://events.hifis.net/event/1741/). They include screencasts showing the SMP and its export to GitHub.
 
 
-## Current topics
-
-* Survey of the SMP-DE-Community about the usage of SMPs: [Link](https://limesurvey.urz.uni-heidelberg.de/index.php/525728)
-
 ## Repositories
 
 * The code for our SMP-specific plugins can be found in this repository: [rdmo-plugins-maus](https://github.com/MPDL/rdmo-plugins-maus)
