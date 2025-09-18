@@ -12,7 +12,7 @@ Machine-AUtomated Support for Software Management Plans
 
 ## Currently available
 
-As of 2025-02-25, an RDMO export plugin is available as prototype for demonstration. It can be tested on following RDMO demo instance: [Link](https://demo-rdmo.mpdl.mpg.de/).
+Here is our [RDMO demo instance](https://demo-rdmo.mpdl.mpg.de/) to test our plugins.
 
 An example SMP is provided [here](https://github.com/lauraBahamon/de-rse-2025-demo).
 
@@ -25,4 +25,5 @@ Further information can be found [here](https://doi.org/10.17617/2.3637440) - th
 
 ## Repositories
 
-* The code for the plugins can be found in this repository: [rdmo-plugins-maus](https://github.com/MPDL/rdmo-plugins-maus)
+* The code for our SMP-specific plugins can be found in this repository: [rdmo-plugins-maus](https://github.com/MPDL/rdmo-plugins-maus)
+* And here are our forked [rdmo-plugins-github](https://github.com/MPDL/rdmo-plugins-github) and [rdmo-plugins-gitlab](https://github.com/MPDL/rdmo-plugins-gitlab) each with an extra export plugin 
